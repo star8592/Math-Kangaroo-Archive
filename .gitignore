@@ -1,0 +1,10 @@
+# Raw downloaded material is intentionally not versioned
+*.pdf
+*.html
+*.htm
+*.sqlite
+*.db
+__pycache__/
+.venv/
+.env
+.DS_Store

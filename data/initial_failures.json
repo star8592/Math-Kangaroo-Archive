@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://mathkangaroo.org/mks/wp-content/uploads/2024/08/MK-Introduction-to-Schools.pdf",
+    "error": "HTTPError('404 Client Error: Not Found for url: https://mathkangaroo.org/mks/wp-content/uploads/2024/08/MK-Introduction-to-Schools.pdf')",
+    "source_page": "https://mathkangaroo.org/mks/math-kangaroo-team-competition/team-competition-sample/"
+  },
+  {
+    "url": "https://mathkangaroo.org/mks/wp-content/uploads/2024/08/MK-Introduction-to-Schools.pdf",
+    "error": "HTTPError('404 Client Error: Not Found for url: https://mathkangaroo.org/mks/wp-content/uploads/2024/08/MK-Introduction-to-Schools.pdf')",
+    "source_page": "official"
+  },
+  {
+    "url": "https://www.math.utoronto.ca/oz/KangarooBooklet3-4_sample.pdf",
+    "error": "HTTPError('404 Client Error: Not Found for url: https://www.math.utoronto.ca/oz/KangarooBooklet3-4_sample.pdf')",
+    "source_page": "University of Toronto"
+  },
+  {
+    "url": "https://www.math.utoronto.ca/oz/KangarooBooklet5-6_sample.pdf",
+    "error": "HTTPError('404 Client Error: Not Found for url: https://www.math.utoronto.ca/oz/KangarooBooklet5-6_sample.pdf')",
+    "source_page": "University of Toronto"
+  },
+  {
+    "url": "https://www.math.utoronto.ca/oz/KangarooBooklet9-10_sample.pdf",
+    "error": "HTTPError('404 Client Error: Not Found for url: https://www.math.utoronto.ca/oz/KangarooBooklet9-10_sample.pdf')",
+    "source_page": "University of Toronto"
+  },
+  {
+    "url": "https://www.math.utoronto.ca/oz/KangarooBooklet11-12_sample.pdf",
+    "error": "HTTPError('404 Client Error: Not Found for url: https://www.math.utoronto.ca/oz/KangarooBooklet11-12_sample.pdf')",
+    "source_page": "University of Toronto"
+  }
+]
